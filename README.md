@@ -1,2 +1,3 @@
-# manage-java
-manage spring-boot start &amp;&amp; stop
+# manage-springBoot
+
+java项目的启停脚本
